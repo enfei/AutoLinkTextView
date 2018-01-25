@@ -29,7 +29,7 @@ dependencies {
 publish {
     groupId = 'com.github.enfei'
     artifactId = 'AutoLinkTextView'
-    publishVersion = '0.1.0'
+    publishVersion = '0.3.0'
     desc = 'Auto Link Text View'
     licences = ['MIT']
     website = 'https://github.com/enfei/AutoLinkTextView'
